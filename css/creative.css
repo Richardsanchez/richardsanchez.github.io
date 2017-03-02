@@ -9,7 +9,7 @@ body {
 body {
    /*  font-family: Merriweather,'Helvetica Neue',Arial,sans-serif; */
    font-family: 'Montserrat', sans-serif;
-    
+
 }
 
 hr {
@@ -48,6 +48,7 @@ p {
     margin-bottom: 20px;
     font-size: 16px;
     line-height: 1.5;
+    color:white;
 }
 
 .bg-primary {
@@ -510,12 +511,12 @@ body {
 #services {
     /* background-color: #AFFC41; */
     background-color:#1F292E;
-    height: 500px;
+    height: 1000px;
     width: 100%;
     margin: auto;
     text-align:center;
     margin-top: 0px;
-    
+
 }
 
 
